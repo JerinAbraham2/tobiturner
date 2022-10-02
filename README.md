@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobiturner
-- 👀 I’m interested in Soccer 
+- 👀 I’m interested in volleyball 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on web-based projects and apps
 - 📫 How to reach me officialtobiturner@gmail.com
