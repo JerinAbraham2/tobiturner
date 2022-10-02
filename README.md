@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tobiturner
-- 👀 I’m interested in ... THINGS 
-- 🌱 I’m currently learning ...  OTHER THINGS
-- 💞️ I’m looking to collaborate on ... ON COLLABORATIVE THINGS
-- 📫 How to reach me ... send a bird 🐦. 
+- 👀 I’m interested in Soccer 
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on web-based projects and apps
+- 📫 How to reach me officialtobiturner@gmail.com
 
 
 
